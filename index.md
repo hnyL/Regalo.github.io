@@ -1,37 +1,24 @@
+# SPACE-STATION TRANSPORTATION SYSTEM
+
+
 ## Alfa-Romeo Regalo
 
-You can use the [editor on GitHub](https://github.com/hnyL/Regalo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Regalo is a conceptual design facing on the requirement of ferrying between different space stations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can take a brief view on [TJU Industial Design Galary](http://idesign.tju.edu.cn/exhibitions/index/work_detail/id/195/type/biye.html) to maintain a direct insight to the design and the intelligent designer, Lorraine Jade.
+
+The design can be deparated into three parts of exterior, interior and human-machine. These three sections are organically correlated but remains their own specific and unique features.
 
 ### Exterior Design
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Here is the Exterior Design
 
 ### Interior Design
 
-### Machine-body Deign
+Here is the Interior Design
 
-- Bulleted
-- List
+### Human-machine Deign
 
-1. Numbered
-2. List
+Here is the Human-machine Deign
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hnyL/Regalo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##
